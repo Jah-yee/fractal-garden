@@ -6,8 +6,6 @@ That makes N-Flakes more like a whole family of fractals than a single picture. 
 
 The version here lets you change the number of sides directly, so you can move from sharp triangular flakes to much rounder polygon families. The centered option is especially interesting for the classic pentaflake and hexaflake cases, where the middle copy helps create the denser star-like structure those versions are known for.
 
----
-
-**Further reading**
+## Further reading
 
 - [Pentaflake](https://en.wikipedia.org/wiki/Pentaflake) on Wikipedia

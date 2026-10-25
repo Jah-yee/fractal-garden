@@ -17,10 +17,8 @@ if (depth < iterations) {
 }
 ```
 
-Even though it is built from squares, the negative space between those squares can start to echo the triangular gaps that appear in the [Sierpinski Triangle](/l-system/sierpinski-triangle). It also belongs in the same recursive family as the [Sierpinski Carpet](/sierpinski-carpet), where a very small placement rule creates a much larger geometric structure.
+Even though it is built from squares, the negative space between those squares can start to echo the triangular gaps that appear in the [Sierpinski Triangle](/l-system/sierpinski-triangle). It also belongs in the same recursive family as the [Sierpinski Carpet](/sierpinski-carpet), where a very small placement rule creates a much larger geometric structure. The T-square is a two-dimensional fractal: its fractal dimension is 2, even though it bounds a finite area and its boundary keeps growing without limit.
 
----
-
-**Further reading**
+## Further reading
 
 - [T-square (fractal)](https://en.wikipedia.org/wiki/T-square_(fractal)) on Wikipedia

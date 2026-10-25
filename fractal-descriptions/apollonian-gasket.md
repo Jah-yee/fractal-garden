@@ -4,10 +4,8 @@ The Apollonian Gasket begins with a small group of circles that all touch each o
 
 The key idea behind the construction is Descartes' theorem. Instead of thinking in terms of radius, it is often easier to use **curvature**, which is just `1 / r`. Once three tangent circles and the circle on the other side of the gap are known, the curvature of the next circle can be computed directly, so the whole packing can be grown recursively.
 
-That makes this fractal feel very different from square-based constructions like the [2D Vicsek Fractal](/vicsek-fractal-2d) or the [Sierpinski Carpet](/sierpinski-carpet), but the recursive spirit is the same. The version here starts from a symmetric four-circle arrangement and keeps filling every gap, so the gasket slowly turns from a few broad arcs into a web of tiny circles.
+That makes this fractal feel very different from square-based constructions like the [2D Vicsek Fractal](/vicsek-fractal-2d) or the [Sierpinski Carpet](/sierpinski-carpet), but the recursive spirit is the same. The version here starts from a symmetric four-circle arrangement and keeps filling every gap, so the gasket slowly turns from a few broad arcs into a web of tiny circles. The packing is not self-similar, yet it still has a well-defined [fractal dimension](https://en.wikipedia.org/wiki/Fractal_dimension): its Hausdorff dimension is about 1.3057.
 
----
-
-**Further reading**
+## Further reading
 
 - [Apollonian gasket](https://en.wikipedia.org/wiki/Apollonian_gasket) on Wikipedia

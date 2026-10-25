@@ -8,8 +8,6 @@ Because the Mandelbulb is a 3D object, it is usually rendered with **ray marchin
 
 The version here lets you orbit by dragging, zoom with the mouse wheel, and pan by holding `Shift` while dragging. That makes it easier to move between the overall bulb shape and the smaller folds that start to echo the recursive detail seen in other fractals like the [Menger Sponge](/menger-sponge).
 
----
-
-**Further reading**
+## Further reading
 
 - [Mandelbulb](https://en.wikipedia.org/wiki/Mandelbulb) on Wikipedia
